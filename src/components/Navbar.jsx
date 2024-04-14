@@ -20,6 +20,9 @@ const Navbar = () => {
         <li class="nav-item">
           <a class="nav-link" href="/Search">Search</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/Delete">DELETE</a>
+        </li>
       </ul>
     </div>
   </div>
